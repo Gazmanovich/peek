@@ -1,6 +1,5 @@
 package de.maxhenkel.peek.integration;
-//TODO Add back
-/*
+
 import de.maxhenkel.configbuilder.entry.*;
 import de.maxhenkel.peek.Peek;
 import de.maxhenkel.peek.config.PeekConfig;
@@ -172,4 +171,3 @@ public class ClothConfigIntegration {
         return null;
     }
 }
-*/
